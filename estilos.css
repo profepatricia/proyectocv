@@ -1,0 +1,32 @@
+p{
+    color: red;
+    font-size: large;
+}
+
+li{
+    background-color: yellow;
+}
+#EncabezadoPrincipal{
+    color: blueviolet;
+    font-size: xx-large;
+}
+#EncabezadoSecundario{
+    color: rgb(19, 100, 58);
+    font-size: x-large;
+}
+.parrafos{
+    background-color: aqua;
+    margin: 200px;
+    border: solid 2px;
+    padding:100px;
+}
+.colorparrafo{
+    color: rgb(56, 13, 59);
+    font-size: larger;
+}
+.foto{
+    border: solid 2px;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: yellow;
+}
